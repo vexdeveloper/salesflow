@@ -1,0 +1,9 @@
+id_venda;data;cliente;produto;quantidade;preco_unitario
+PV001;20/10/2026;Ana Souza;Teclado mecânico;2;R$ 150,00
+PV002;20/10/2026;Bruno Lima;Mouse sem fio;3;R$ 65,90
+PV003;21/10/2026;Carla Mendes;Monitor 24 polegadas;1;R$ 899,00
+PV004;21/10/2026;Diego Alves;Suporte para notebook;2;R$ 79,50
+PV005;22/10/2026;Eva Costa;Webcam HD;1;R$ 210,00
+PV005;22/10/2026;Eva Costa;Webcam HD;1;R$ 210,00
+PV006;data-invalida;Felipe Rocha;Headset;1;R$ 199,90
+PV007;23/10/2026;Gabriela Nunes;Cabo USB-C;0;R$ 29,90
